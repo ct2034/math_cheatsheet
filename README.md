@@ -4,10 +4,10 @@ tbd
 
 ## Statistics
 
-![equation](http://latex.codecogs.com/gif.download?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cfrac%7Bn%21%7D%7Bk%21%28n-k%29%21%7D)
+![equation](http://latex.codecogs.com/gif.latex?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cfrac%7Bn%21%7D%7Bk%21%28n-k%29%21%7D)
 This is often read aloud as "n choose k", because there are so many ways to choose a subset of size k elements, disregarding their order, from a set of n elements.
 
-![equation](http://latex.codecogs.com/gif.download?n%21%20%3D%20n%28n-1%29%28n-2%29%28n-3%29%20...%201)
+![equation](http://latex.codecogs.com/gif.latex?n%21%20%3D%20n%28n-1%29%28n-2%29%28n-3%29%20...%201)
 
 ## Tools
 
