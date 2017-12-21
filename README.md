@@ -9,6 +9,7 @@ tbd
 ### Binomial Coefficients
 
 `$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
+`$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$`
 
 ![equation](http://latex.codecogs.com/gif.latex?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cfrac%7Bn%21%7D%7Bk%21%28n-k%29%21%7D)
 
