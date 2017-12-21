@@ -8,6 +8,8 @@ tbd
 
 ### Binomial Coefficients
 
+`\(x_1 = 132\)`
+
 ![equation](http://latex.codecogs.com/gif.latex?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cfrac%7Bn%21%7D%7Bk%21%28n-k%29%21%7D)
 
 This is often read aloud as "n choose k", because there are so many ways to choose a subset of size k elements, disregarding their order, from a set of n elements.
